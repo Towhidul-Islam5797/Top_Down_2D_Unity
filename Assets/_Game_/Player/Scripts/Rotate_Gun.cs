@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class BarrelToMouse : MonoBehaviour
+public class Rotate_Gun : MonoBehaviour
 {
     public Transform player; // The object to attach to the player center (pivot)
     public float length = 1.0f; // Distance from character center to barrel/gun end
